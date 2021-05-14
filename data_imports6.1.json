@@ -3,126 +3,151 @@
   {
     "name": "enron_monique.sanchez",
     "Jobtitle": "Unknown",
+    "size":2490,
     "imports": []
   },
   {
     "name": "enron_michelle.lokay",
     "Jobtitle": "Employee",
+    "size":2490,
     "imports": ["enron_kenneth.lay"]
   },
   {
     "name": "enron_kate.symes",
     "Jobtitle": "Employee",
+    "size":2490,
     "imports": []
   },
   {
     "name": "enron_tana.jones",
     "Jobtitle": "Unknown",
+    "size":2490,
     "imports": []
   },
   {
     "name": "enron_j.kaminski",
     "Jobtitle": "CEO",
+    "size":2490,
     "imports": []
   },
   {
     "name": "enron_sally.beck",
     "Jobtitle": "Director",
+    "size":2490,
     "imports": []
   },
   {
     "name": "enron_mark.whitt",
     "Jobtitle": "Unknown",
+    "size":2490,
     "imports": []
   },
   {
     "name": "enron_james.d.steffes",
     "Jobtitle": "Employee",
+    "size":2490,
     "imports": []
   },
   {
     "name": "enron_carol.clair",
     "Jobtitle": "Employee",
+    "size":2490,
     "imports": []
   },
   {
     "name": "enron_james.derrick",
     "Jobtitle": "Director",
+    "size":2490,
     "imports": []
   },
   {
     "name": "enron_james.derrick",
     "Jobtitle": "CEO",
+    "size":2490,
     "imports": []
   },
   {
     "name": "enron_danny.mccarty",
     "Jobtitle": "Director",
+    "size":2490,
     "imports": []
   },
   {
     "name": "enron_john.arnold",
     "Jobtitle": "Trader",
+    "size":2490,
     "imports": []
   },
   {
     "name": "enron_gerald.nemec",
     "Jobtitle": "President",
+    "size":2490,
     "imports": []
   },
   {
     "name": "enron_jay.reitmeyer",
     "Jobtitle": "Vice President",
+    "size":2490,
     "imports": []
   },
   {
     "name": "enron_mark.mcconnell",
     "Jobtitle": "Unknown",
+    "size":2490,
     "imports": []
   },
   {
     "name": "enron_hunter.s.shively",
     "Jobtitle": "Unknown",
+    "size":2490,
     "imports": []
   },
   {
     "name": "enron_chris.germany",
     "Jobtitle": "Employee",
+    "size":2490,
     "imports": []
   },
   {
     "name": "enron_monique.sanchez",
     "Jobtitle": "Director",
+    "size":2490,
     "imports": []
   },
   {
     "name": "enron_sara.shackleton",
     "Jobtitle": "Vice President",
+    "size":2490,
     "imports": []
   },
   {
     "name": "enron_jay.reitmeyer",
     "Jobtitle": "Trader",
+    "size":2490,
     "imports": []
   },
   {
     "name": "enron_mark.e.taylor",
     "Jobtitle": "Employee",
+    "size":2490,
     "imports": []
   },
   {
     "name": "enron_stacy.dickson",
     "Jobtitle": "Unknown",
+    "size":2490,
     "imports": []
   },
   {
     "name": "enron_steven.harris",
     "Jobtitle": "Manager",
+    "size":2490,
     "imports": []
   },
   {
     "name": "enron_susan.bailey",
     "Jobtitle": "Manager",
+    "size":2490,
     "imports": []
   },
   {
