@@ -1,0 +1,748 @@
+[
+  
+  {
+    "name": "enron_monique.sanchez",
+    "Jobtitle": "Unknown",
+    "imports": []
+  },
+  {
+    "name": "enron_michelle.lokay",
+    "Jobtitle": "Employee",
+    "imports": []
+  },
+  {
+    "name": "enron_kate.symes",
+    "Jobtitle": "Employee",
+    "imports": []
+  },
+  {
+    "name": "enron_tana.jones",
+    "Jobtitle": "Unknown",
+    "imports": []
+  },
+  {
+    "name": "enron_j.kaminski",
+    "Jobtitle": "CEO",
+    "imports": []
+  },
+  {
+    "name": "enron_sally.beck",
+    "Jobtitle": "Director",
+    "imports": []
+  },
+  {
+    "name": "enron_mark.whitt",
+    "Jobtitle": "Unknown",
+    "imports": []
+  },
+  {
+    "name": "enron_james.d.steffes",
+    "Jobtitle": "Employee",
+    "imports": []
+  },
+  {
+    "name": "enron_carol.clair",
+    "Jobtitle": "Employee",
+    "imports": []
+  },
+  {
+    "name": "enron_james.derrick",
+    "Jobtitle": "Director",
+    "imports": []
+  },
+  {
+    "name": "enron_james.derrick",
+    "Jobtitle": "CEO",
+    "imports": []
+  },
+  {
+    "name": "enron_danny.mccarty",
+    "Jobtitle": "Director",
+    "imports": []
+  },
+  {
+    "name": "enron_john.arnold",
+    "Jobtitle": "Trader",
+    "imports": []
+  },
+  {
+    "name": "enron_gerald.nemec",
+    "Jobtitle": "President",
+    "imports": []
+  },
+  {
+    "name": "enron_jay.reitmeyer",
+    "Jobtitle": "Vice President",
+    "imports": []
+  },
+  {
+    "name": "enron_mark.mcconnell",
+    "Jobtitle": "Unknown",
+    "imports": []
+  },
+  {
+    "name": "enron_hunter.s.shively",
+    "Jobtitle": "Unknown",
+    "imports": []
+  },
+  {
+    "name": "enron_chris.germany",
+    "Jobtitle": "Employee",
+    "imports": []
+  },
+  {
+    "name": "enron_monique.sanchez",
+    "Jobtitle": "Director",
+    "imports": []
+  },
+  {
+    "name": "enron_sara.shackleton",
+    "Jobtitle": "Vice President",
+    "imports": []
+  },
+  {
+    "name": "enron_jay.reitmeyer",
+    "Jobtitle": "Trader",
+    "imports": []
+  },
+  {
+    "name": "enron_mark.e.taylor",
+    "Jobtitle": "Employee",
+    "imports": []
+  },
+  {
+    "name": "enron_stacy.dickson",
+    "Jobtitle": "Unknown",
+    "imports": []
+  },
+  {
+    "name": "enron_steven.harris",
+    "Jobtitle": "Manager",
+    "imports": []
+  },
+  {
+    "name": "enron_susan.bailey",
+    "Jobtitle": "Manager",
+    "imports": []
+  },
+  {
+    "name": "enron_phillip.k.ellen",
+    "Jobtitle": "CEO",
+    "imports": []
+  },
+  {
+    "name": "enron_greg.whalley",
+    "Jobtitle": "Vice President",
+    "imports": []
+  },
+  {
+    "name": "enron_susan.scott",
+    "Jobtitle": "Managing Director",
+    "imports": []
+  },
+  {
+    "name": "enron_richard.shapiro",
+    "Jobtitle": "Manager",
+    "imports": []
+  },
+  {
+    "name": "enron_barry.tycholiz",
+    "Jobtitle": "Director",
+    "imports": []
+  },
+  {
+    "name": "enron_richard.shapiro",
+    "Jobtitle": "Employee",
+    "imports": []
+  },
+  {
+    "name": "enron_richard.shapiro",
+    "Jobtitle": "Employee",
+    "imports": []
+  },
+  {
+    "name": "enron_theresa.staab",
+    "Jobtitle": "Trader",
+    "imports": []
+  },
+  {
+    "name": "enron_jeff.dasovich",
+    "Jobtitle": "Employee",
+    "imports": []
+  },
+  {
+    "name": "enron_drew.fossum",
+    "Jobtitle": "Vice President",
+    "imports": []
+  },
+  {
+    "name": "enron_steven.j.kean",
+    "Jobtitle": "Vice President",
+    "imports": []
+  },
+  {
+    "name": "enron_mark.e.taylor",
+    "Jobtitle": "In House Lawyer",
+    "imports": []
+  },
+  {
+    "name": "enron_mike.maggi",
+    "Jobtitle": "Vice President",
+    "imports": []
+  },
+  {
+    "name": "enron_sara.shackleton",
+    "Jobtitle": "Unknown",
+    "imports": []
+  },
+  {
+    "name": "enron_paul.y barbo",
+    "Jobtitle": "Vice President",
+    "imports": []
+  },
+  {
+    "name": "enron_sara.shackleton",
+    "Jobtitle": "Employee",
+    "imports": []
+  },
+  {
+    "name": "enron_louise.kitchen",
+    "Jobtitle": "Employee",
+    "imports": []
+  },
+  {
+    "name": "enron_james.derrick",
+    "Jobtitle": "Manager",
+    "imports": []
+  },
+  {
+    "name": "enron_chris.dorland",
+    "Jobtitle": "President",
+    "imports": []
+  },
+  {
+    "name": "enron_eric.bass",
+    "Jobtitle": "Employee",
+    "imports": []
+  },
+  {
+    "name": "enron_harry.arora",
+    "Jobtitle": "Unknown",
+    "imports": []
+  },
+  {
+    "name": "enron_stacey.w.white",
+    "Jobtitle": "Director",
+    "imports": []
+  },
+  {
+    "name": "enron_mike.grigsby",
+    "Jobtitle": "Vice President",
+    "imports": []
+  },
+  {
+    "name": "enron_robert.badeer",
+    "Jobtitle": "Vice President",
+    "imports": []
+  },
+  {
+    "name": "enron_tana.jones",
+    "Jobtitle": "Employee",
+    "imports": []
+  },
+  {
+    "name": "enron_richard.b.sanders",
+    "Jobtitle": "Unknown",
+    "imports": []
+  },
+  {
+    "name": "enron_sally.beck",
+    "Jobtitle": "Unknown",
+    "imports": []
+  },
+  {
+    "name": "enron_jim.schwieger",
+    "Jobtitle": "Employee",
+    "imports": []
+  },
+  {
+    "name": "enron_mark.e.taylor",
+    "Jobtitle": "Employee",
+    "imports": []
+  },
+  {
+    "name": "enron_kevin.ruscitti",
+    "Jobtitle": "Vice President",
+    "imports": []
+  },
+  {
+    "name": "enron_tana.jones",
+    "Jobtitle": "Unknown",
+    "imports": []
+  },
+  {
+    "name": "enron_john.zufferli",
+    "Jobtitle": "Employee",
+    "imports": []
+  },
+  {
+    "name": "enron_mark.e.taylor",
+    "Jobtitle": "Manager",
+    "imports": []
+  },
+  {
+    "name": "enron_sara.shackleton",
+    "Jobtitle": "Unknown",
+    "imports": []
+  },
+  {
+    "name": "enron_david.w.delainey",
+    "Jobtitle": "Manager",
+    "imports": []
+  },
+  {
+    "name": "enron_michelle.lokay",
+    "Jobtitle": "Trader",
+    "imports": []
+  },
+  {
+    "name": "enron_steven.j.kean",
+    "Jobtitle": "Employee",
+    "imports": []
+  },
+  {
+    "name": "enron_geoff.storey",
+    "Jobtitle": "Vice President",
+    "imports": []
+  },
+  {
+    "name": "enron_susan.scott",
+    "Jobtitle": "Vice President",
+    "imports": []
+  },
+  {
+    "name": "enron_susan.bailey",
+    "Jobtitle": "Manager",
+    "imports": []
+  },
+  {
+    "name": "enron_mike.maggi",
+    "Jobtitle": "Unknown",
+    "imports": []
+  },
+  {
+    "name": "enron_jeff.king",
+    "Jobtitle": "Employee",
+    "imports": []
+  },
+  {
+    "name": "enron_susan.bailey",
+    "Jobtitle": "CEO",
+    "imports": []
+  },
+  {
+    "name": "enron_jason.wolfe",
+    "Jobtitle": "Employee",
+    "imports": []
+  },
+  {
+    "name": "enron_elizabeth.sager",
+    "Jobtitle": "Trader",
+    "imports": []
+  },
+  {
+    "name": "enron_scott.neal",
+    "Jobtitle": "Trader",
+    "imports": []
+  },
+  {
+    "name": "enron_l..gay",
+    "Jobtitle": "Employee",
+    "imports": []
+  },
+  {
+    "name": "enron_tana.jones",
+    "Jobtitle": "Vice President",
+    "imports": []
+  },
+  {
+    "name": "enron_richard.b.sanders",
+    "Jobtitle": "Trader",
+    "imports": []
+  },
+  {
+    "name": "enron_patrice.l.mims",
+    "Jobtitle": "Employee",
+    "imports": []
+  },
+  {
+    "name": "enron_eric.linder",
+    "Jobtitle": "Trader",
+    "imports": []
+  },
+  {
+    "name": "enron_david.w.delainey",
+    "Jobtitle": "Trader",
+    "imports": []
+  },
+  {
+    "name": "enron_richard.shapiro",
+    "Jobtitle": "Employee",
+    "imports": []
+  },
+  {
+    "name": "enron_richard.shapiro",
+    "Jobtitle": "Employee",
+    "imports": []
+  },
+  {
+    "name": "enron_phillip.m.love",
+    "Jobtitle": "Vice President",
+    "imports": []
+  },
+  {
+    "name": "enron_louise.kitchen",
+    "Jobtitle": "Director",
+    "imports": []
+  },
+  {
+    "name": "enron_sandra.f.brawner",
+    "Jobtitle": "Employee",
+    "imports": []
+  },
+  {
+    "name": "enron_jeff.dasovich",
+    "Jobtitle": "Director",
+    "imports": []
+  },
+  {
+    "name": "enron_l..gay",
+    "Jobtitle": "Unknown",
+    "imports": []
+  },
+  {
+    "name": "enron_sara.shackleton",
+    "Jobtitle": "President",
+    "imports": []
+  },
+  {
+    "name": "enron_drew.fossum",
+    "Jobtitle": "Vice President",
+    "imports": []
+  },
+  {
+    "name": "enron_mike.grigsby",
+    "Jobtitle": "Unknown",
+    "imports": []
+  },
+  {
+    "name": "enron_barry.tycholiz",
+    "Jobtitle": "Managing Director",
+    "imports": []
+  },
+  {
+    "name": "enron_rick.buy",
+    "Jobtitle": "Unknown",
+    "imports": []
+  },
+  {
+    "name": "enron_hunter.s.shively",
+    "Jobtitle": "Managing Director",
+    "imports": []
+  },
+  {
+    "name": "enron_steven.j.kean",
+    "Jobtitle": "Manager",
+    "imports": []
+  },
+  {
+    "name": "enron_michelle.lokay",
+    "Jobtitle": "Employee",
+    "imports": []
+  },
+  {
+    "name": "enron_steven.harris",
+    "Jobtitle": "Unknown",
+    "imports": []
+  },
+  {
+    "name": "enron_mike.maggi",
+    "Jobtitle": "Unknown",
+    "imports": []
+  },
+  {
+    "name": "enron_sara.shackleton",
+    "Jobtitle": "Director",
+    "imports": []
+  },
+  {
+    "name": "enron_eric.saibi",
+    "Jobtitle": "Employee",
+    "imports": []
+  },
+  {
+    "name": "enron_phillip.m.love",
+    "Jobtitle": "Employee",
+    "imports": []
+  },
+  {
+    "name": "enron_don.baughman",
+    "Jobtitle": "Employee",
+    "imports": []
+  },
+  {
+    "name": "enron_mark.e.taylor",
+    "Jobtitle": "Manager",
+    "imports": []
+  },
+  {
+    "name": "enron_matthew.lenhart",
+    "Jobtitle": "Director",
+    "imports": []
+  },
+  {
+    "name": "enron_michelle.lokay",
+    "Jobtitle": "Manager",
+    "imports": []
+  },
+  {
+    "name": "enron_andy.zipper",
+    "Jobtitle": "Trader",
+    "imports": []
+  },
+  {
+    "name": "enron_susan.bailey",
+    "Jobtitle": "Employee",
+    "imports": []
+  },
+  {
+    "name": "enron_james.d.steffes",
+    "Jobtitle": "Unknown",
+    "imports": []
+  },
+  {
+    "name": "enron_kimberly.watson",
+    "Jobtitle": "Unknown",
+    "imports": []
+  },
+  {
+    "name": "enron_kimberly.watson",
+    "Jobtitle": "Employee",
+    "imports": []
+  },
+  {
+    "name": "enron_james.d.steffes",
+    "Jobtitle": "Trader",
+    "imports": []
+  },
+  {
+    "name": "enron_tana.jones",
+    "Jobtitle": "Unknown",
+    "imports": []
+  },
+  {
+    "name": "enron_stanley.horton",
+    "Jobtitle": "Employee",
+    "imports": []
+  },
+  {
+    "name": "enron_jason.williams",
+    "Jobtitle": "Manager",
+    "imports": []
+  },
+  {
+    "name": "enron_james.d.steffes",
+    "Jobtitle": "Employee",
+    "imports": []
+  },
+  {
+    "name": "enron_tori.kuykendall",
+    "Jobtitle": "Unknown",
+    "imports": []
+  },
+  {
+    "name": "enron_fletcher.j.sturm",
+    "Jobtitle": "Employee",
+    "imports": []
+  },
+  {
+    "name": "enron_paul.lucci",
+    "Jobtitle": "Employee",
+    "imports": []
+  },
+  {
+    "name": "enron_chris.germany",
+    "Jobtitle": "Vice President",
+    "imports": []
+  },
+  {
+    "name": "enron_sara.shackleton",
+    "Jobtitle": "Vice President",
+    "imports": []
+  },
+  {
+    "name": "enron_tana.jones",
+    "Jobtitle": "Manager",
+    "imports": []
+  },
+  {
+    "name": "enron_sara.shackleton",
+    "Jobtitle": "Director",
+    "imports": []
+  },
+  {
+    "name": "enron_richard.b.sanders",
+    "Jobtitle": "Director",
+    "imports": []
+  },
+  {
+    "name": "enron_lynn.blair",
+    "Jobtitle": "Unknown",
+    "imports": []
+  },
+  {
+    "name": "enron_richard.shapiro",
+    "Jobtitle": "Vice President",
+    "imports": []
+  },
+  {
+    "name": "enron_james.d.steffes",
+    "Jobtitle": "Trader",
+    "imports": []
+  },
+  {
+    "name": "enron_mark.e.taylor",
+    "Jobtitle": "Employee",
+    "imports": []
+  },
+  {
+    "name": "enron_richard.b.sanders",
+    "Jobtitle": "Director",
+    "imports": []
+  },
+  {
+    "name": "enron_kevin.m.presto",
+    "Jobtitle": "Unknown",
+    "imports": []
+  },
+  {
+    "name": "enron_drew.fossum",
+    "Jobtitle": "Unknown",
+    "imports": []
+  },
+  {
+    "name": "enron_kim.ward",
+    "Jobtitle": "Vice President",
+    "imports": []
+  },
+  {
+    "name": "enron_gerald.nemec",
+    "Jobtitle": "Director",
+    "imports": []
+  },
+  {
+    "name": "enron_j.kaminski",
+    "Jobtitle": "Vice President",
+    "imports": []
+  },
+  {
+    "name": "enron_phillip.k.ellen",
+    "Jobtitle": "Unknown",
+    "imports": []
+  },
+  {
+    "name": "enron_mark.mcconnell",
+    "Jobtitle": "Employee",
+    "imports": []
+  },
+  {
+    "name": "enron_sara.shackleton",
+    "Jobtitle": "President",
+    "imports": []
+  },
+  {
+    "name": "enron_jason.williams",
+    "Jobtitle": "Employee",
+    "imports": []
+  },
+  {
+    "name": "enron_kevin.m.presto",
+    "Jobtitle": "Vice President",
+    "imports": []
+  },
+  {
+    "name": "enron_danny.mccarty",
+    "Jobtitle": "Vice President",
+    "imports": []
+  },
+  {
+    "name": "enron_mike.maggi",
+    "Jobtitle": "Unknown",
+    "imports": []
+  },
+  {
+    "name": "enron_thomas.a.martin",
+    "Jobtitle": "Unknown",
+    "imports": []
+  },
+  {
+    "name": "enron_susan.scott",
+    "Jobtitle": "Employee",
+    "imports": []
+  },
+  {
+    "name": "enron_richard.shapiro",
+    "Jobtitle": "Unknown",
+    "imports": []
+  },
+  {
+    "name": "enron_martin.cuilla",
+    "Jobtitle": "Unknown",
+    "imports": []
+  },
+  {
+    "name": "enron_eric.bass",
+    "Jobtitle": "Unknown",
+    "imports": []
+  },
+  {
+    "name": "enron_mike.grigsby",
+    "Jobtitle": "Manager",
+    "imports": []
+  },
+  {
+    "name": "enron_jonathan.mckay",
+    "Jobtitle": "Employee",
+    "imports": []
+  },
+  {
+    "name": "enron_david.w.delainey",
+    "Jobtitle": "Vice President",
+    "imports": []
+  },
+  {
+    "name": "enron_mark.e.taylor",
+    "Jobtitle": "Employee",
+    "imports": []
+  },
+  {
+    "name": "enron_jonathan.mckay",
+    "Jobtitle": "Trader",
+    "imports": []
+  },
+  {
+    "name": "enron_susan.scott",
+    "Jobtitle": "Employee",
+    "imports": []
+  },
+  {
+    "name": "enron_patrice.l.mims",
+    "Jobtitle": "Manager",
+    "imports": []
+  },
+  {
+    "name": "enron_carol.clair",
+    "Jobtitle": "Unknown",
+    "imports": []
+  }
+]
