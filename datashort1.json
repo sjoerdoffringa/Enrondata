@@ -19,7 +19,7 @@
 	{"name": "enron_employee_p", "Jobtitle": "Employee", "imports": ["enron_vicepresident_andyzipper"]}, 
 	{"name": "enron_employee_q", "Jobtitle": "Employee", "imports": ["enron_vicepresident_andyzipper"]}, 
 	{"name": "enron_employee_r", "Jobtitle": "Employee", "imports": ["enron_vicepresident_andyzipper"]}, 
-	{"name": "enron_employee_s", "Jobtitle": "Employee", "imports": ["enron_vicepresident_andyzipper"]}, 
+	{"name": "enron_employee_s", "Jobtitle": "Employee", "imports": ["enron_vicepresident_andyzipper", "enron_employee_a", "enron_employee_b", "enron_employee_c", "enron_employee_d", "enron_employee_e", "enron_employee_f", "enron_employee_g", "enron_employee_h", "enron_employee_i", "enron_employee_j", "enron_employee_k", "enron_employee_l", "enron_employee_m", "enron_employee_n", "enron_employee_o", "enron_employee_p", "enron_employee_q"]}, 
 	{"name": "enron_employee_t", "Jobtitle": "Employee", "imports": ["enron_vicepresident_andyzipper"]}, 
 	{"name": "enron_employee_u", "Jobtitle": "Employee", "imports": ["enron_vicepresident_andyzipper"]}, 
 	{"name": "enron_employee_v", "Jobtitle": "Employee", "imports": ["enron_vicepresident_andyzipper"]}, 
