@@ -1,4 +1,4 @@
 [
-	{"name": "enron.employee.tana_jones", "Jobtitle": "Employee", "imports": ["enron.vicepresident.andy_zipper"]}, 
-	{"name": "enron.vicepresident.andy_zipper", "Jobtitle": "Vice President", "imports": ["enron.employee.tana_jones"]},
-	{"name": "enron.unknown.john_doe", "Jobtitle": "Unknown", "imports": ["enron.employee.tana_jones", "enron.vicepresident.andy_zipper"]}]
+	{"name": "enron_employee_tanajones", "Jobtitle": "Employee", "imports": ["enron_vicepresident_andyzipper"]}, 
+	{"name": "enron_vicepresident_andyzipper", "Jobtitle": "Vice President", "imports": ["enron_employee_tanajones"]},
+	{"name": "enron_unknown_johndoe", "Jobtitle": "Unknown", "imports": ["enron_employee_tanajones", "enron_vicepresident_andyzipper"]}]
